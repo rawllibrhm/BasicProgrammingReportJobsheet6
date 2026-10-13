@@ -1,11 +1,9 @@
 # JOBSHEET 6 - SELECTION STATEMENTS 2
 
-![Jobsheet](https://img.shields.io/badge/Jobsheet-6-0969da?style=for-the-badge)
-![Topic](https://img.shields.io/badge/Topic-Selection_Statements_2-8250df?style=for-the-badge)
-![Language](https://img.shields.io/badge/Language-Java-d1242f?style=for-the-badge)
-![Nested IF](https://img.shields.io/badge/Nested-IF-1a7f37?style=for-the-badge)
-![Logical Operators](https://img.shields.io/badge/Logical_Operators-%26%26_%7C%7C_!-bf8700?style=for-the-badge)
-![Campus](https://img.shields.io/badge/Politeknik_Negeri-Malang-57606a?style=for-the-badge)
+![Java](https://img.shields.io/badge/Java-21-orange?logo=openjdk&logoColor=white)
+![Topic](https://img.shields.io/badge/Topic-Selection_2-blue)
+![Jobsheet](https://img.shields.io/badge/Jobsheet-6-success)
+![Class](https://img.shields.io/badge/Class-TI__1I-purple)
 
 ## Student Identity
 
